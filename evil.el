@@ -136,7 +136,7 @@
 (require 'evil-types)
 (require 'evil-commands)
 (require 'evil-jumps)
-(require 'evil-maps)
+;;(require 'evil-maps)
 
 (when evil-want-integration
   (require 'evil-integration))
